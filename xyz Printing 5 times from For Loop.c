@@ -1,8 +1,8 @@
 #include<stdio.h>
-void main(f)
+void main()
 {
 	
-	int r,c,i,j;
+	int r;
 	
 	for(r=1;r<=5;r++)
 	{
